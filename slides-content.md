@@ -4,14 +4,9 @@
 
 ## Structure
 
-Note:
-
-- Good parts
-- contradictions
-- unclearness
-- privacy
-- other issues
-- RRI dimensions
+- Overall Impressions
+- Our suggestions
+- RRI aspects
 
 ---
 
@@ -80,10 +75,13 @@ Note:
 - very good: risk section was included, failing as a product was accounted for
 - but what if there's not enough money?
 - in what ways can InvID fail a customer? e.g. dead battery
+- APIs from banks etc. needed
 
 ---
 
 ## RRI Dimensions
 
+Note: 
+Renee
 
 ---
