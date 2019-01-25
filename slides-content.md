@@ -82,6 +82,27 @@ Note:
 ## RRI Dimensions
 
 Note: 
-Renee
+
+beyond what was already mentioned; rri-toolkit
+
+- Ethics
+  - [x] peer-review 
+  - [ ] maybe mention code or do participative design
+- Gender Equality
+  - address this (e.g. company policy, eval how InvID affects ppl in this regard)
+- Governance
+  - address this
+  - updates possible? who governs them?
+  - coop with legislators?
+- Open Access
+  - address this
+  - open source and hardware? (vs business-model?)
+- Public Engagement
+  - [x] talks about talking to banks/companies but also staying independent
+  - [ ] engaging/including potential users of diverse backgrounds.
+- Science Education
+  - address how communication of results happens
 
 ---
+
+## Thank You For Listening 😊
