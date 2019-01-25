@@ -1,152 +1,89 @@
-# Finding and Organizing Shared Living Arrangements
-
-<!-- ![](./RSA_SAT_Logo.png) -->
-<img src="./RSA_SAT_Logo.png" alt="" style="border: none; max-width: 200px; background: none; box-shadow: none;">
+# Review InvID
 
 ---
 
-- Program: Innovationsscheck mit Selbstbehalt (FFG) <br/>
-<img src="./ffg_logo_de_2018_white.png" alt="" style="border: none; max-width: 200px; background: none; box-shadow: none;">
-- Business partner <br/><img src="./houses_white.png" alt="" style="border: none; max-width: 200px; background: none; box-shadow: none;">
-- Research partner: Researchstudio Smart Agent Technologies <br/><img src="./RSA_SAT_Logo.png" alt="" style="border: none; max-width: 200px; background: none; box-shadow: none;">
+# Structure
 
 Note:
 
-- Finding and Organizing Shared Living Arrangements
-- Innovationsscheck mit Selbstbehalt
-- FFG
-- A Proptech-company + studio SAT
+- Good parts
+- contradictions
+- unclearness
+- privacy
+- other issues
+- RRI dimensions
 
 ---
 
-# State of the Art
+# Overall impression
+
+- good idea - InvID would be very convenient
+- unclear features
+- technical details are well described
+- assumes a high level of reader familiarity with the topic
+- extensive budget plan
 
 Note:
 
-- state of prop-tech -- low # of dominating platforms / too many for users
-- bootstrapping / walled garden
-- filtering possibilities
-- high volume (fb groups)
-- smaller / private groups -- indirect filter + trust
+- we like the idea, good document structure
+- convenience is definitely a pro, as is the ecological impact
+- unclear what exactly the goals are -> see contradictions
+- grammar/spelling issues (we have some tool recommendations)
+- acronyms etc. are not explained (this is better in the presentation)
+- plan for ad and infrastructure costs
 
 ---
 
-# Goals
+# Agree on a detailed concept beforehand
 
 Note:
 
-- decentral / open protocol
-  - build on top of _web of needs_
-- artifacts:
-  - reference implementations (foss)
-  - ontology/data-schema @ ctxt of shared living
-  - project report
-    - digital ethnography
-    - literature research
-    - usability test (in field?)
-- stop/go decision @ follow-up
+- was clearly written by several people - document contradicts itself
+- example: coop with banks & corporations
+- example: being disruptive vs. using existing technologies
 
 ---
 
-# Innovative Aspects
+# Provide Sources for Claims
 
 Note:
 
-- Builds on WoN + previous prop-tech project
-- focusses on shared living
-- pro shared living
-  - cost-efficient
-  - sustainability
-  - support each other
-  - company (espec. seniors)
-- equal representation of participants (vs overrepresentation of supply @ flats/established groups)
-  - ad hoc groups
+- InvID seems dependent on a few unsourced claims
+- Improvment: add more references
+- e.g. the availability and adoption of card-less payments
 
 ---
 
-# Expected Impact
+# Detail advantages over other solutions
 
 Note:
 
-- not a platform but protocol, thus
-  - coop between existing services
-  - lower barrier-of-entry for newcomers
-- benefits:
-  - for platforms: structured & open format => reach
-  - for users: x-platform + better filtering => less-effort
-  - for urban planners: info about demand
-- new ontology usable by other apps and researchers
-- data usable by researchers
+- unclear how smartphones don't completely replace InvID
+- if an app is needed - why don't just use the app?
 
 ---
 
-# Risks
+# Focus clarity over statements that sound good
 
 Note:
 
-- miscalculation/scoping
-- competition appearing (good tho)
-- wrong (sub-)problems => iterative
-- making housing market worse (dunno how?)
-- privacy, application security
-- power imbalances
-  - landlords/ladies
-  - person(s) signing lease
-  - other flat-mates
-- visibility of race/gender/etc
-- algorithmic bias
+- example: being disruptive
+- example: privacy as a feature
+- no intrusion of company/bank interests - leads to other issues
 
 ---
 
-# Budget & Scope
+# Think about different risks
 
-€10,000 / 80% quota &rightarrow; €12,500
-
-@ €70/h &rightarrow; 180h
-
-- 16h: digitial ethnography
-- 16h: literature-research
-- 72h: GUI-prototype update
-- 24h: RDF-data-modelling
-- 24h: usability testing
-- 32h: report
-
-<!--
 Note:
 
-- 16h: digi ethn: looking at flat(-mate) searches and offers (side-note: we're part of audience)
-- 16h: literature-research
-- 72h: representing the identified use cases in our existing GUI-prototype
-- 24h: RDF-modelling / representation of shared living (including the people, the group, the space, and the contract)
-- 24h: usability testing (in the field if possible)
-  - (e.g. via Wizard of Ozzing in the form of manual matching, ) manuelles matching als wizard-of-oz? leute direkt anschreiben und sich als gratis makler.in anbieten (und WoN nur als buchhaltung verwenden)
-- 32h: report
-- NOT integration w/ platforms
-- NOT (editing)
--->
+- very good: risk section was included, failing as a product was accounted for
+- but what if there's not enough money?
+- in what ways can InvID fail a customer? e.g. dead battery
 
-<!--
+---
 
 # RRI Dimensions
 
-Note:
-
-=> kristina's sheet
-
-- ethics
-- gender equality
-- open access
-- governance
-- public engagement
-- science education
--->
 
 ---
-
-# Matchat
-
-GUI-prototype / Reference Client
-
-<http://matchat.org/>
-
-![](./matchat-qr.png)
