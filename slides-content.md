@@ -2,7 +2,7 @@
 
 ---
 
-# Structure
+## Structure
 
 Note:
 
@@ -15,7 +15,7 @@ Note:
 
 ---
 
-# Overall impression
+## Overall impression
 
 - good idea - InvID would be very convenient
 - unclear features
@@ -34,7 +34,7 @@ Note:
 
 ---
 
-# Agree on a detailed concept beforehand
+## Agree on a detailed concept beforehand
 
 Note:
 
@@ -44,7 +44,7 @@ Note:
 
 ---
 
-# Provide Sources for Claims
+## Provide Sources for Claims
 
 Note:
 
@@ -54,7 +54,7 @@ Note:
 
 ---
 
-# Detail advantages over other solutions
+## Detail advantages over other solutions
 
 Note:
 
@@ -63,7 +63,7 @@ Note:
 
 ---
 
-# Focus clarity over statements that sound good
+## Focus clarity over statements that sound good
 
 Note:
 
@@ -73,7 +73,7 @@ Note:
 
 ---
 
-# Think about different risks
+## Think about different risks
 
 Note:
 
@@ -83,7 +83,7 @@ Note:
 
 ---
 
-# RRI Dimensions
+## RRI Dimensions
 
 
 ---
